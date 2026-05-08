@@ -1,0 +1,15 @@
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\bin\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).exe
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\bin\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).deps.json
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\bin\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).runtimeconfig.json
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\bin\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).dll
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\bin\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).pdb
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).AssemblyInfoInputs.cache
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).AssemblyInfo.cs
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).csproj.CoreCompileInputs.cache
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).sourcelink.json
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).dll
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\refint\Taller POO (Calse-Encapsulamiento-Herencia).dll
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).pdb
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\Taller POO (Calse-Encapsulamiento-Herencia).genruntimeconfig.cache
+D:\Downloads\POO\Taller POO (Calse-Encapsulamiento-Herencia)\Taller POO (Calse-Encapsulamiento-Herencia)\obj\Debug\net10.0\ref\Taller POO (Calse-Encapsulamiento-Herencia).dll
